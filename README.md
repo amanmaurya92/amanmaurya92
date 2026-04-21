@@ -47,4 +47,4 @@
 ---
 
 ### 🌐 Find me
-- GitHub: https://github.com/amanthatdoescares
+- LinkedIn - https://www.linkedin.com/in/lord-aman-maurya/
