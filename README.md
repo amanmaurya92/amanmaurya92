@@ -47,4 +47,4 @@
 ---
 
 ### 🌐 Find me
-- LinkedIn - https://www.linkedin.com/in/lord-aman-maurya/
+- LinkedIn - https://www.linkedin.com/in/amanmaurya92096/
