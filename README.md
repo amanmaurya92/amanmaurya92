@@ -1,13 +1,12 @@
-<h1 align="center">Hey 👋 I'm Aman</h1>
+<h1 align="center">Hey, I'm Aman Maurya</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="200"/>
 </p>
 
 ---
 
 ### 🚀 About me
-- CS student  
 - Open-source contributor  
 - Systems, tooling, and low-level curiosity  
 - Linux user by choice
@@ -30,18 +29,11 @@
 
 ---
 
-### 🔥 What I’m doing
-- Contributing to **vscode-swift**
-- Learning **SourceKit-LSP**
-- Writing and reading real code, not tutorials
-
----
-
 ### 🧩 Coding energy
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="360"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="360"/>
 </p>
 
 ---
