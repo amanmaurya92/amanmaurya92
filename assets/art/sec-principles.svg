@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="32" viewBox="0 0 880 32" role="img">
+<style>
+  .a{fill:#bc8cff} .b{fill:#f0f6fc} .t{fill:#c9d1d9}
+  .m{fill:#7d8590} .f{fill:#30363d} .fs{stroke:#30363d}
+  @media (prefers-color-scheme: light){
+    .a{fill:#8250df} .b{fill:#1f2328} .t{fill:#1f2328}
+    .m{fill:#59636e} .f{fill:#d1d9e0} .fs{stroke:#d1d9e0}
+  }
+  text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+  
+</style>
+
+<defs><linearGradient id="gprinciples" x1="0" x2="1">
+  <stop offset="0" stop-color="#bc8cff" stop-opacity=".65"/>
+  <stop offset="1" stop-color="#bc8cff" stop-opacity="0"/>
+</linearGradient></defs>
+<text x="0" y="21" class="a" font-size="13" font-weight="700" letter-spacing="1">05</text>
+<text x="34" y="21" class="f" font-size="13">/</text>
+<text x="52" y="21" class="b" font-size="15" font-weight="700" letter-spacing="3.4">HOW I WORK</text>
+<rect x="180" y="14" width="700" height="1.5" fill="url(#gprinciples)"/></svg>

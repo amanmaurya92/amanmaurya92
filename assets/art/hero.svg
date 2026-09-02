@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="122" viewBox="0 0 560 122" role="img">
+<style>
+  .a{fill:#bc8cff} .b{fill:#f0f6fc} .t{fill:#c9d1d9}
+  .m{fill:#7d8590} .f{fill:#30363d} .fs{stroke:#30363d}
+  @media (prefers-color-scheme: light){
+    .a{fill:#8250df} .b{fill:#1f2328} .t{fill:#1f2328}
+    .m{fill:#59636e} .f{fill:#d1d9e0} .fs{stroke:#d1d9e0}
+  }
+  text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+  
+</style>
+
+<text x="0" y="62" class="b" font-size="46" font-weight="700" letter-spacing="6">AMAN MAURYA</text>
+<rect x="2" y="82" width="46" height="3" rx="1.5" class="a"/>
+<text x="0" y="112" class="m" font-size="14.5" letter-spacing="2.6">SYSTEMS &#183; LOW-LEVEL TOOLING &#183; OPEN SOURCE</text></svg>
