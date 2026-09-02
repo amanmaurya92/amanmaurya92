@@ -37,6 +37,7 @@ $ whoami --verbose
   upstream    swiftlang · dart-lang · CNCF
   builds      systems · database engines · compilers & runtimes
   languages   C++ (close to the metal) · C · Go · Rust · Swift · Dart
+  portfolio   amanmaurya92.github.io
   rule        simplicity is prerequisite for reliability
 ```
 
@@ -125,5 +126,6 @@ Cloud-native systems infrastructure, container primitives, and orchestration too
 
 <img src="assets/art/sec-elsewhere.svg" width="100%" alt="Elsewhere" />
 
+- **Portfolio**: [amanmaurya92.github.io](https://amanmaurya92.github.io/)
 - **LinkedIn**: [in/amanmaurya92096](https://www.linkedin.com/in/amanmaurya92096/)
 - **GitHub**: [@amanmaurya92](https://github.com/amanmaurya92)
