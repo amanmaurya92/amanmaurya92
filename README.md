@@ -47,24 +47,28 @@ $ whoami --verbose
 - Hacking on **Dartlang** toolchains, SDK architecture, and runtime ergonomics
 - Participating in **CNCF** ecosystem initiatives and cloud-native primitives
 
+<p align="center">
+  <img src="assets/now-banner.gif" width="100%" alt="Anime Banner" />
+</p>
+
 <img src="assets/art/sec-work.svg" width="100%" alt="Work" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://github.com/RabbitBase.png" width="20" height="20" valign="middle" /> [RabbitBase](https://github.com/RabbitBase) <sub>· founder</sub>
+### <img src="https://github.com/RabbitBase.png" width="20" height="20" align="middle" /> [RabbitBase](https://github.com/RabbitBase) · founder
 
-Founding and architecting core infrastructure — building distributed, resilient systems and high-throughput data engines engineered to handle critical workloads without compromise.
+Architecting high-throughput distributed storage engines and resilient systems infrastructure.
 
-`Founder` `Systems Architecture` `Distributed Systems` `C++` `Go`
+`Founder` `Systems Architecture` `Distributed Storage` `C++` `Go`
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://github.com/swiftlang.png" width="20" height="20" valign="middle" /> [Swiftlang](https://github.com/swiftlang) <sub>· upstream</sub>
+### <img src="https://github.com/swiftlang.png" width="20" height="20" align="middle" /> [Swiftlang](https://github.com/swiftlang) · upstream
 
-Upstream contributions to the Swift programming language and compiler ecosystem. Focusing on compiler diagnostics, runtime performance, LLVM code generation, and low-level system tooling.
+Upstream patches to the Swift compiler, standard library, and runtime diagnostics.
 
 `Swift` `C++` `LLVM` `Compiler Architecture`
 
@@ -73,18 +77,18 @@ Upstream contributions to the Swift programming language and compiler ecosystem.
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://github.com/dart-lang.png" width="20" height="20" valign="middle" /> [Dartlang](https://github.com/dart-lang) <sub>· upstream</sub>
+### <img src="https://github.com/dart-lang.png" width="20" height="20" align="middle" /> [Dartlang](https://github.com/dart-lang) · upstream
 
-Contributing to Dart SDK infrastructure, runtime internals, and language ergonomics. Improving native toolchains, platform interop, virtual machine performance, and developer-facing utilities.
+Toolchain improvements, VM internals, and native developer SDK tooling.
 
 `Dart` `C++` `Virtual Machine` `SDK & Tooling`
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://github.com/cncf.png" width="20" height="20" valign="middle" /> [CNCF](https://github.com/cncf) <sub>· upstream</sub>
+### <img src="https://github.com/cncf.png" width="20" height="20" align="middle" /> [CNCF](https://github.com/cncf) · upstream
 
-Upstream contributions across Cloud Native Computing Foundation ecosystems — hardening cloud infrastructure, microservice orchestration, and container networking primitives.
+Cloud-native systems infrastructure, container primitives, and orchestration tooling.
 
 `Cloud Native` `Go` `Kubernetes` `Infrastructure`
 
@@ -94,12 +98,24 @@ Upstream contributions across Cloud Native Computing Foundation ecosystems — h
 
 <img src="assets/art/sec-stack.svg" width="100%" alt="Stack" />
 
-```text
-  languages   C · C++ · Go · Rust · Swift · Dart · Python · Bash
-  systems     Linux · POSIX APIs · Distributed Storage · Concurrency · Docker · Kubernetes
-  toolchains  LLVM · Clang · CMake · Ninja · Compiler & VM Internals
-  tooling     Neovim · GDB · Valgrind · Git · GitHub Actions · VS Code
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,go,rust,swift,dart,py,bash&perline=4&theme=dark" alt="Languages" />
+
+</td>
+<td width="50%" valign="top">
+
+### systems & tooling
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,cmake,git,githubactions,neovim,vscode&perline=4&theme=dark" alt="Systems & Tooling" />
+
+</td>
+</tr>
+</table>
 
 <img src="assets/art/sec-principles.svg" width="100%" alt="How I Work" />
 
