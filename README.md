@@ -48,7 +48,7 @@ $ whoami --verbose
 - Participating in **CNCF** ecosystem initiatives and cloud-native primitives
 
 <p align="center">
-  <img src="assets/now-banner.gif" width="100%" alt="Anime Banner" />
+  <img src="assets/now-banner.gif" width="75%" alt="Anime Banner" />
 </p>
 
 <img src="assets/art/sec-work.svg" width="100%" alt="Work" />
