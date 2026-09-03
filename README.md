@@ -58,7 +58,7 @@ $ whoami --verbose
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://github.com/RabbitBase.png" width="20" height="20" align="middle" /> [RabbitBase](https://github.com/RabbitBase) · founder
+### <img src="https://github.com/RabbitBase.png" width="16" height="16" align="middle" /> [RabbitBase](https://github.com/RabbitBase) · founder
 
 Architecting high-throughput distributed storage engines and resilient systems infrastructure.
 
@@ -67,7 +67,7 @@ Architecting high-throughput distributed storage engines and resilient systems i
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://github.com/swiftlang.png" width="20" height="20" align="middle" /> [Swiftlang](https://github.com/swiftlang) · upstream
+### <img src="https://cdn.simpleicons.org/swift" width="16" height="16" align="middle" /> [Swiftlang](https://github.com/swiftlang) · upstream
 
 Upstream patches to the Swift compiler, standard library, and runtime diagnostics.
 
@@ -78,7 +78,7 @@ Upstream patches to the Swift compiler, standard library, and runtime diagnostic
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://github.com/dart-lang.png" width="20" height="20" align="middle" /> [Dartlang](https://github.com/dart-lang) · upstream
+### <img src="https://cdn.simpleicons.org/dart" width="16" height="16" align="middle" /> [Dartlang](https://github.com/dart-lang) · upstream
 
 Toolchain improvements, VM internals, and native developer SDK tooling.
 
@@ -87,7 +87,7 @@ Toolchain improvements, VM internals, and native developer SDK tooling.
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://github.com/cncf.png" width="20" height="20" align="middle" /> [CNCF](https://github.com/cncf) · upstream
+### <img src="https://cdn.simpleicons.org/cncf/0086FF" width="16" height="16" align="middle" /> [CNCF](https://github.com/cncf) · upstream
 
 Cloud-native systems infrastructure, container primitives, and orchestration tooling.
 
